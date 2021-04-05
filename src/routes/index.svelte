@@ -33,14 +33,14 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Construct RPG</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Construct Role Playing System</h1>
+
+<p><strong>Construct your perfect System</strong></p>
 
 <figure>
-	<img alt='Borat' src='great-success.png'>
-	<figcaption>HIGH FIVE!</figcaption>
+	<img alt='Construct Logo' src='construct.png'>
+	<figcaption>Logo</figcaption>
 </figure>
-
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
