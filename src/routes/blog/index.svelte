@@ -17,7 +17,7 @@
 	}
 
 	a {
-		color: red;
+		color: #f59a31ff;
 	}
 </style>
 

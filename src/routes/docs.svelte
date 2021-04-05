@@ -2,6 +2,12 @@
 	<title>About</title>
 </svelte:head>
 
+<style>
+a {
+	color: #f59a31ff;
+}	
+</style>
+
 <h1>Documentation</h1>
 
-<p>The documentation for the Construct Project can be found at the <a style="color:red" href="https://docs.construct.tasadar.net">documentation website</a>.</p>
+<p>The documentation for the Construct Project can be found at the <a href="https://docs.construct.tasadar.net">documentation website</a>.</p>

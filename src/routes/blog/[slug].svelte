@@ -53,7 +53,8 @@
 	}
 
 	.content :global(a){
-		color: red;
+		/*color: #e6332aff;*/
+		color: #f59a31ff;
 	}
 </style>
 
