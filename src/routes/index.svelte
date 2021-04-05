@@ -42,5 +42,4 @@
 
 <figure>
 	<img alt='Construct Logo' src='construct.png'>
-	<figcaption>Logo</figcaption>
 </figure>
