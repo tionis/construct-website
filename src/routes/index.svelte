@@ -36,9 +36,9 @@
 	<title>Construct RPG</title>
 </svelte:head>
 
-<h1>Construct Role Playing System</h1>
+<h1>Construct RPG</h1>
 
-<p><strong>Construct your perfect System</strong></p>
+<p><strong>Construct your perfect Role Playing System</strong></p>
 
 <figure>
 	<img alt='Construct Logo' src='construct.png'>
