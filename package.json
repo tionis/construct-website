@@ -1,7 +1,7 @@
 {
   "name": "construct-website",
   "description": "Website of the construct rpg project",
-  "version": "0.1",
+  "version": "0.0.1",
   "scripts": {
     "start": "sapper dev",
     "dev": "sapper dev --port 3000",
