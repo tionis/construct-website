@@ -18,7 +18,7 @@ const posts = [
 			  <li>Easy to learn. play and customize.</li>
 			  <li>Contains skill progression that follows the gauss distribution.</li>
 			</ul></p>
-			<p>After giving the whole thing some thought, we decided on a D10 based System (optionally with D6s) with a very strong modularity. This enabled us to use concepts from the IT World to enable Users to build their own System with bundles. While this rule system will not be published for copyright reasons, the system that automatically manages rule sets will be published. To learn more about how this work, read the documentation.</p>
+			<p>After giving the whole thing some thought, we decided on a D10 based System (optionally with D6s) with a very strong modularity. The System should work especially for out less serious play style thanks to the concept of Character Points.</p>
 			`,
 	}
 ];
